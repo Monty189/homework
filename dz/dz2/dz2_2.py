@@ -1,0 +1,5 @@
+user_input_salary=float(input("Введите вашу зарплату: "))
+user_input_credits=float(input("Введите сумму платежа по кредиту: "))
+user_input_utilities=float(input("Введите сумму платежа по коммунальным платежам: "))
+balance=round(user_input_salary-user_input_credits-user_input_utilities, 2)
+print(f"{"Остаток: "}{balance}")
