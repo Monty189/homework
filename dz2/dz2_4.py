@@ -1,1 +1,0 @@
-print(f"{"To be".center(50)}\n{"or not".center(50)}\n{"to be".center(50)}")
