@@ -1,0 +1,39 @@
+/* h2{
+    color:red;
+    background-color: green;
+    font-size: 50px;
+    border: 4px black solid;
+} */
+
+.color_text_red{
+    color:red;
+}
+
+.color_text_blue{
+    color:blue;
+}
+
+.color_text_green{
+    color:green;
+}
+
+
+#one{
+    color: yellowgreen;
+}
+
+#two{
+    color: purple;
+}
+
+#three{
+    color: aqua;
+}
+
+.setting_text{
+    /* color: blue;
+    font-size: 50px; */
+    text-align: left;
+    line-height: 3.5;
+    /* межстрочный интервал */
+}
