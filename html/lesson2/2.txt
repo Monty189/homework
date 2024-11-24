@@ -1,0 +1,6 @@
+Лекция 2
+header - голова сайта
+section 1 - секция 1
+section 2 - секция 2      (БЛОК)
+section n - секция n
+footer - конец сайта
