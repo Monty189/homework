@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(22, 91, 92);
+}
+
+/* @font-face {
+    font-family: 'Roboto';
+    src: url(./css/fonts/Roboto/Roboto-Light.ttf);
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+p{
+    font-family: 'Roboto';
+    font-weight: 100;
+} */
+
+/* .test{
+    width: 1000px;
+    height: 1000px;
+    background-color: rgb(166, 255, 1);
+}
+
+.test2{
+    width: 750px;
+    height: 750px;
+    background-color: black;
+}
+
+.test3{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(13, 141, 216);
+}
+
+.test4{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(55, 0, 252);
+} */
+
+/* .test11{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(13, 177, 218);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 10px 30px 50px 70px;
+    grid-template-rows: 150px;
+
+    gap: 20px;
+
+}
+
+.test22{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(94, 161, 16);
+
+    border: 1px solid black;
+} */
+
+/* .my_margin{
+    width: 150px;
+    height: 150px;
+    background-color: gold;
+
+    margin-left: 400px;
+    margin-top: 200px;
+} */
+
+/* .my_margin1{
+    height: 150px;
+    background-color: gold;
+    border: 5px solid black;
+}
+
+.my_margin2{
+    height: 150px;
+    background-color: gold;
+    border: 5px solid black;
+
+    margin-top: 50px;
+} */
+
+.my_padding{
+    width: 150px;
+    height: 150px;
+    background-color: coral;
+    border: 5px solid black;
+    font-size: 20px;
+
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    padding-right: 2px;
+
+    box-sizing: border-box;
+
+
+}
