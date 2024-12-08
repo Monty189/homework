@@ -43,7 +43,7 @@
 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 
-
+    margin: 300px;
     
 
 }
@@ -71,12 +71,39 @@
 .section3{
     
 }
+.container3_1{
+    display: grid;
 
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    padding-left: 300px;
+    padding-right: 300px;
+
+
+}
+.container3_2{
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
+
+.prew_cars{
+    
+
+    border: 1px solid black;
+
+    background-color: cornflowerblue;
+
+}
 .section4{
     
 }
 
-.section5{
+.section5{    
     
 }
 
