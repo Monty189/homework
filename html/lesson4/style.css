@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(19, 166, 177);
+    background-image: url(./water.jpg);
+    background-size: cover;
+}
+
+
+.test{
+    background-image: url(./peaceful-rural-surroundings-daylight.jpg);
+    background-size: cover;
+
+    width: 400px;
+    height: 400px;
+}
