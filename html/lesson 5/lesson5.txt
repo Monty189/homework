@@ -1,0 +1,14 @@
+--- background-repeat: no-repeat: что бы картинка не повторялась
+
+--- background-size: 100% 100%: что бы картинку растянуть по всему размеру блока
+
+--- background-position: center top: позиционирование картинки
+
+--- background-attachment: local: для того что бы картинка двигалась вместе с текстом
+
+--- overflow: scroll: что бы текст в блоке можно было скролить
+
+--- opacity: 0.5: для прозрачности картинки/цвета (~подложка)
+
+--- <textarea name="test" id="test" class="test_form"> : для создание формы "комментария"
+

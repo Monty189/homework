@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(8, 90, 145);
+}
+
+.img_test{
+    height: 500px;
+    border: 1px solid black;
+
+    background-image: url(./image/space_test1.png),
+                        url(./image/test2.webp),
+                        url(./image/test3.jpg);
+
+ 
+    background-repeat: no-repeat,
+                        no-repeat,
+                        no-repeat;
+
+    background-size: 33% 100%,
+                    33% 100%,
+                    33% 100%;
+
+    background-position: center right,
+                        center center,
+                        center left;
+
+
+}
+
+/* .my_fon{
+    border: 1px solid black;
+
+    height: 300px;
+
+    background-image: url(./image/space.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: scroll;
+    background-attachment: local;
+}
+
+
+
+
+.test{
+    height: 800px;
+    background-color: rgb(50, 8, 148);
+    opacity: 0.5;
+} */
+
+/* .test_form{
+    width: 200px;
+    height: 300px;
+
+    background-image: url(./image/space.avif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+} */
